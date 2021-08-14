@@ -4,13 +4,13 @@ import Navbar from '../layout/Navbar'
 import { Landing } from './Landing'
 
 const Home = () => {
-    return (
-        <div>
-            <Navbar />
-            <Landing />
-            <Footer />
-        </div>
-    )
+return (
+<div>
+    <Navbar />
+    <Landing />
+    <Footer />
+</div>
+)
 }
 
 export default Home
